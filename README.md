@@ -15,13 +15,14 @@ Klik link Register untuk mendaftarkan user baru.
 Login dan aplikasi siap digunakan.
 
 Sistem Requirements
-PHP >= 7.0.0
-MySQL >= 5.7
-Local Instalation DEV
-Clone from Bitbucket
-seting up .env dan database
-Run composer install
-Run php artisan key:generate
+
+-PHP >= 7.0.0
+-MySQL >= 5.7
+-Local Instalation DEV
+-Clone from Bitbucket
+-seting up .env dan database
+-Run composer install
+-Run php artisan key:generate
 Run php artisan migrate
 Run php artisan db:seed
 Run php artisan storage:link
